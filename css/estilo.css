@@ -33,10 +33,14 @@ header h1{
 
 nav{
     width: 100%;
-    height: 60px;
+    height: 50px;
     text-align: center;
     background: #ffebac;  
    
+}
+
+.nav{
+    padding: 30px;
 }
 nav>a{
     padding: 50px;
@@ -93,12 +97,6 @@ article img{
 .lista-menu h3{
     padding: 20px 0;
 }
-
-ul>a{
-    padding: 20px 0;
-    font-size: 20px ;
-}
-
 
 footer{
     width: 100%;
